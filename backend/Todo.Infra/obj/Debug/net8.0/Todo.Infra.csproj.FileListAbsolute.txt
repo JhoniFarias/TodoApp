@@ -1,0 +1,17 @@
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\bin\Debug\net8.0\Todo.Infra.deps.json
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\bin\Debug\net8.0\Todo.Infra.runtimeconfig.json
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\bin\Debug\net8.0\Todo.Infra.dll
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\bin\Debug\net8.0\Todo.Infra.pdb
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\bin\Debug\net8.0\Todo.Domain.dll
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\bin\Debug\net8.0\Todo.Domain.pdb
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\obj\Debug\net8.0\Todo.Infra.csproj.AssemblyReference.cache
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\obj\Debug\net8.0\Todo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\obj\Debug\net8.0\Todo.Infra.AssemblyInfoInputs.cache
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\obj\Debug\net8.0\Todo.Infra.AssemblyInfo.cs
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\obj\Debug\net8.0\Todo.Infra.csproj.CoreCompileInputs.cache
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\obj\Debug\net8.0\Todo.Infra.csproj.Up2Date
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\obj\Debug\net8.0\Todo.Infra.dll
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\obj\Debug\net8.0\refint\Todo.Infra.dll
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\obj\Debug\net8.0\Todo.Infra.pdb
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\obj\Debug\net8.0\Todo.Infra.genruntimeconfig.cache
+D:\Workspace\balta\TodoApp\backend\Todo.Infra\obj\Debug\net8.0\ref\Todo.Infra.dll
