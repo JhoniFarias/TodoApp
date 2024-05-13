@@ -1,0 +1,23 @@
+.row {
+    margin-top: 1em;
+}
+
+
+
+.btnDone {
+    opacity: 0;
+
+}
+
+.line-card:hover .btnDone{
+    transition: opacity 0.3s linear;
+    opacity: 1;
+}
+
+.done p {
+    text-decoration: line-through;
+}
+
+.done small {
+    text-decoration: line-through;
+}

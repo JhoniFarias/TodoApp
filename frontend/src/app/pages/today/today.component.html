@@ -1,0 +1,4 @@
+
+@for (item of todos; track $index) {
+    <app-card [todo]="item" (click)="setStateTask(item)"></app-card>
+}

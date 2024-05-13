@@ -1,0 +1,20 @@
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card shadow-lg">
+            <div class="card-body">
+                <div class="row line-card">
+                    <div class="col-md-6" [ngClass]="{'done': todo.done}">
+                        <p>{{todo.title}}</p>
+                        <small>{{todo.date | date: 'dd/MM/yyyy'}}</small>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-check form-switch">
+                            <input class="form-check-input float-end" type="checkbox" [checked]="todo.done" role="switch" id="flexSwitchCheckDefault">
+                          </div>
+                    </div>
+                </div>   
+            </div>
+        </div>
+    </div>
+</div>

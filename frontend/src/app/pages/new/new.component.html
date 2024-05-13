@@ -1,0 +1,15 @@
+<form [formGroup]="form" >
+    <div class="mb-3">
+        <label for="taskName" class="form-label">Nova tarefa</label>
+        <input type="text" class="form-control" id="taskName" name="taskName" formControlName="title" />
+    </div>
+    <div class="mb-3">
+        <label for="taskDate" class="form-label">Data</label>
+        <input type="date" class="form-control" id="taskDate" name="taskDate" formControlName="date" />
+    </div>
+
+    <app-button class="float-end" (click)="submitForm()">
+        Salvar
+    </app-button>
+
+</form>
