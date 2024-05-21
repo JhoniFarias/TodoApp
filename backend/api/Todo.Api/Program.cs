@@ -21,7 +21,7 @@ builder.Services.AddTransient<TodoHandler, TodoHandler>();
 
 builder.Services.AddDbContext<DataContext>(options =>
 {
-    options.UseSqlServer("Server=localhost,1433;Database=todo;User ID=sa;Password=SQL#2024;Trusted_Connection=False; TrustServerCertificate=True;");
+    options.UseSqlServer("connection_string");
 }
 );
 
@@ -29,13 +29,13 @@ builder.Services.AddDbContext<DataContext>(options =>
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
-        options.Authority = "https://securetoken.google.com/project-894259307264";
+        options.Authority = "https://securetoken.google.com/your-project";
         options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters()
         {
             ValidateIssuer = true,
-            ValidIssuer = "https://securetoken.google.com/todo-4cddb",
+            ValidIssuer = "https://securetoken.google.com/your-project",
             ValidateAudience = true,
-            ValidAudience = "todo-4cddb",
+            ValidAudience = "your-project",
             ValidateLifetime = true,
         };
     });
