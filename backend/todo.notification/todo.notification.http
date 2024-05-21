@@ -1,6 +1,0 @@
-@todo.notification_HostAddress = http://localhost:5092
-
-GET {{todo.notification_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

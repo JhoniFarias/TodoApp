@@ -1,6 +1,0 @@
-@todo.gateway_HostAddress = http://localhost:5145
-
-GET {{todo.gateway_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
