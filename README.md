@@ -13,7 +13,7 @@ Utilizei o package **Flunt** para garantir que todas as entradas de dados sejam 
 - **Handlers**: Responsáveis por processar commands e queries, conectando-se com todo o fluxo da aplicação.
 
 ## 🔐 Autenticação JWT
-Utilizei autenticação Jwt utilizando token gerado pela autenticação via google realizado no front-end
+Utilizei autenticação Jwt utilizando token gerado via google autentication realizado no front-end
 
 ## 🧪 Testes Unitários com xUnit
 Para garantir que tudo funcione perfeitamente, implementei testes unitários utilizando o xUnit. Isso nos ajuda a dormir tranquilos, sabendo que nosso código está sólido!
