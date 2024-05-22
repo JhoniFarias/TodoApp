@@ -4,7 +4,7 @@ Projeto desenvolvido com Angular 17 e .net 8
 # Back-end
 
 ## 📋 Fluent Validation
-Utilizei o package **Flunt** para garantir que todas as entradas de dados sejam válidas desde o começo (Fail Fast Validation).
+Utilizei o package **Fluent Validator** para garantir que todas as entradas de dados sejam válidas desde o começo (Fail Fast Validation).
 
 ## 🔄 CQRS
 ### Comandos e Handlers
